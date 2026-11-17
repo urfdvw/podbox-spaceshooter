@@ -1,0 +1,9 @@
+{
+  "id": "0000000000000000",
+  "name": "Space Shooter",
+  "author": "",
+  "version": "1",
+  "help": "Touch the wheel to fly that way; lift your finger and the ship slows to a stop. Your ship fires by itself at the nearest enemy. When the bar on the right blinks red, lifting your finger fires the ultimate.",
+  "rate": 33,
+  "boards": [{ "name": "best", "title": "High Score" }]
+}
